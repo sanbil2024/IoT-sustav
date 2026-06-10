@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="range_labels">
+        <item>30 min</item>
+        <item>1 h</item>
+        <item>2 h</item>
+        <item>6 h</item>
+    </string-array>
+
+    <integer-array name="range_minutes">
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>360</item>
+    </integer-array>
+</resources>
